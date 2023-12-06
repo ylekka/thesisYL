@@ -6,7 +6,8 @@
 
 ### 2. ΑΝΙΧΝΕΥΣΗ ΦΥΣΙΚΗΣ ΔΡΑΣΤΗΡΙΟΤΗΤΑΣ (ml classifiers)
 
-2_activity_prediction_model.ipynb
+- 2_activity_prediction_model.ipynb
+- 2b_activity_prediction_model_binary.ipynb
 
 #### Εξαγωγή Χαρακτηριστικών
 - AR_features_extract.py
